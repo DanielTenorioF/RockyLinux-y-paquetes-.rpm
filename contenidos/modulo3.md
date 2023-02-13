@@ -13,4 +13,4 @@
 
 - Borrar un paquete --> "yum remove nombre_Paquete"
 
-[Video explicativo]()
+[VIDEO]()
