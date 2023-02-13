@@ -8,5 +8,6 @@ El sistema operativo es de código abierto y compatible a nivel binario con el c
 
 VERSION ACTUAL: Rocky Linux 8.6
 
-- ¿En qué versión está basada
+- ¿En qué versión está basada?
+
 Rocky Linux es una distribución basada en RHEL y que se lanzó como un sustituto a CentOS. Se dio a conocer el lanzamiento de la nueva versión de Rocky Linux 8.7, siendo esta la tercera versión estable del proyecto, reconocida como lista para implementaciones de producción.
