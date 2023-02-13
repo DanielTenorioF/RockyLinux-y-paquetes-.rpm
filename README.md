@@ -1,6 +1,6 @@
 # RockyLinux-y-paquetes-.rpm
 ## Contenido
-- [Introduccion](/contenidos/introduccion.md)
+- [Introduccion](/contenidos/modulo0.md)
 - [Modulo1: Paquetes rpm](/contenidos/modulo1.md)
 - [Módulo2: Repositorios Rocky Linux](/contenidos/modulo2.md)
 - [Módulo3: Operaciones Básicas](/contenidos/modulo3.md)
