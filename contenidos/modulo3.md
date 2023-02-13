@@ -1,14 +1,14 @@
 ## Operaciones Básicas:
 # En el video se explicarán y trabajaran los siguientes comandos:
 
-- Actualización de la lista de paquetes.
+- Actualización de la lista de paquetes --> "yum list --available"
 
-- Actualización de paquetes instalados.
+- Actualización de paquetes instalados --> "yum update"
 
-- Búscar un paquete.
+- Búscar un paquete --> "yum search nombre_Paquete"
 
-- Averiguar si un paquete está instalado.
+- Averiguar si un paquete está instalado --> "sudo yum list installed | grep nombre_Paquete"
 
-- Instalar un paquete.
+- Instalar un paquete --> "yum install nombre_Paquete"
 
-- Borrar un paquete.
+- Borrar un paquete --> "yum remove nombre_Paquete"
