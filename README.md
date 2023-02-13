@@ -11,7 +11,7 @@
 - [Red Hat](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/index)
 
 ## Autores
-- Daniel Tenorio Ferrera
+- Daniel Tenorio Ferrera 
 
 ## Licencia
 ![image](licencia.PNG)
