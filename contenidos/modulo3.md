@@ -12,3 +12,5 @@
 - Instalar un paquete --> "yum install nombre_Paquete"
 
 - Borrar un paquete --> "yum remove nombre_Paquete"
+
+[Video explicativo]()
