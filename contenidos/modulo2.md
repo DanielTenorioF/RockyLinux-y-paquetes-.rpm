@@ -1,7 +1,23 @@
 ## Repositorios Rocky Linux
 # ¿Dónde se encuentra los repositorios?
-Los repositorios se encuentran en /etc/apt/sources.list
+Los repositorios se encuentran en "/etc/yum.repos.d/", a ellos podremos acceder a través del comando "cd /etc/yum.repos.d/.
 
-![image](repositorios.png)
+Para mostrar el contenido hay que poner el comando "ls"
 
-Un repositorio es un servidor web que se encarga de almacenar paquetes y programas para que el usuario pueda descargar e instalar en su distribución GNU/Linux. De modo que, el configurar un repositorio en Linux te facilitará su modificación o edición dependiendo de tus necesidades y las de tu proyecto tecnológico.
+![image](repositorios1.PNG)
+
+Con los siguientes comandos, podremos observar las características principales
+- "yum repoinfo"
+Muestra la información sobre los repositorios instalados. Donde podremos observar que la ruta donde los repositorios se guardan es en "/etc/yum.repos.d/rocky.repo" en el apartado que dice "Repo-filename"
+
+![image](repositorios2.PNG)
+
+- "yum repolist --all"
+Muestra los repositorios que esten tanto habilitados como deshabilitados.
+
+![image](repositorios3.PNG)
+
+- "yum repolist"
+Muestra los repositorios que estén habilitados del sistema.
+
+![image](repositorios4.PNG)
