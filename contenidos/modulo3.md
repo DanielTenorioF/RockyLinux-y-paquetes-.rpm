@@ -7,7 +7,7 @@
 
 - Búscar un paquete --> "yum search nombre_Paquete"
 
-- Averiguar si un paquete está instalado --> "sudo yum list installed | grep nombre_Paquete"
+- Averiguar si un paquete está instalado --> "yum list installed | grep nombre_Paquete"
 
 - Instalar un paquete --> "yum install nombre_Paquete"
 
